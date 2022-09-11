@@ -27,3 +27,9 @@ Total suburban fares also grew significantly between January and April 2019, nea
 Rural fares were about the same at the end of April as they were at the beginning of January. Because there were fewer rides, the changes from week to week were generally more pronounced than in urban/suburban areas (for example, the second week in January saw total fares approach zero but by the following week they had rebounded and outperformed their initial earnings). Like in urban and suburban locales, late February saw a significant increase in rider fares; however, early April was the most lucrative window in rural areas - a similarly profitable time for urban centers but the beginning of a steep decline in suburban usage.
 
 ## Summary
+Based on the chart and graph above, we have multiple recommendations for the business.
+
+### Recommendations
+1. Though revenue is high in urban areas, the fact that there are more drivers than there are rides means that clearly we can support greater demand. We should increase ads/offer promotions in these localities to take advantage of the excess willing drivers available and attempt to secure repeat business.
+2. Across all types of locations, there is a spike in total fares toward the end of February. Because our initial visualizations don't make clear whether those inceases are due to more valuable individual rides or increased volume of ridership overall, we should perform further analysis here to ensure that we can maximize profits in this particularly lucrative window.
+3. The relatively high value of rural rides and earnings of rural drivers could help us recruit in those areas. We could consider running a driver-targeted digital ad campaign so the demand does not outstrip the supply.
